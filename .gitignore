@@ -29,10 +29,7 @@ env/
 
 # Common large data/model artifacts
 # (keep raw datasets, checkpoints, and generated media out of git)
-*.csv
 *.tsv
-*.jsonl
-*.parquet
 *.arrow
 *.feather
 *.h5
