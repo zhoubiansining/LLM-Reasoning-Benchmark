@@ -1,0 +1,9 @@
+{
+    "gpt-oss-20b": "openai/gpt-oss-20b",
+    "Qwen3.5-0.8B": "Qwen/Qwen3.5-0.8B",
+    "Qwen3.5-9B": "Qwen/Qwen3.5-9B",
+    "Qwen3.5-9B-Base": "Qwen/Qwen3.5-9B-Base",
+    "Qwen3.5-27B-FP8": "Qwen/Qwen3.5-27B-FP8",
+    "Qwen3.5-35B-A3B-FP8": "Qwen/Qwen3.5-35B-A3B-FP8",
+    "gemma-4-26B-A4B-it": "google/gemma-4-26B-A4B-it"
+}
