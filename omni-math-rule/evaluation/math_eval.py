@@ -177,7 +177,9 @@ def main(data_name, args):
         reports = [result[1] for result in sample_results]
 
         for j in range(len(preds)):
-            if sample["gt"] in ["A", "B", "C", "D", "E"] and preds[j] not in [
+            if preds[j] is None:
+                preds[j] = ""
+            elif sample["gt"] in ["A", "B", "C", "D", "E"] and preds[j] not in [
                 "A",
                 "B",
                 "C",
