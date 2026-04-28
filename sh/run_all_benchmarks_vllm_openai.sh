@@ -99,7 +99,7 @@ write_summary() {
 }
 
 run_gpqa() {
-  echo "===== [1/5] GPQA-Diamond ====="
+  echo "===== [1/6] GPQA-Diamond ====="
   cd "$ROOT/gpqa/baselines"
 
   local out_dir="$MODEL_RESULTS_DIR/gpqa"
