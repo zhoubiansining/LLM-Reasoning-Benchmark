@@ -192,5 +192,3 @@ bash sh/run_all_benchmarks_vllm_openai.sh Qwen3.5-9B hle
 ```
 
 ---
-
-If you want, I can also add an automatic `results/<model>/ALL_BENCH_SUMMARY.txt` that aggregates key metrics from all benchmark summaries into one table.

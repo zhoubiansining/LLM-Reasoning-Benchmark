@@ -192,5 +192,3 @@ bash sh/run_all_benchmarks_vllm_openai.sh Qwen3.5-9B hle
 ```
 
 ---
-
-如果你希望，我可以再补一个 `results/<model>/ALL_BENCH_SUMMARY.txt` 自动总览文件，把各 benchmark 的关键指标汇总成一张表。
